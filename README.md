@@ -3,7 +3,6 @@
 ## Overview
 This project presents a comprehensive and analytical approach to optimizing a company’s annual **$10 million marketing budget** using advanced optimization techniques. The goal is to determine how this budget should be allocated across ten different advertising platforms—such as TV, Print, Facebook, Instagram, LinkedIn, SEO, and AdWords—to achieve the **maximum possible Return on Investment (ROI)**. The project moves beyond intuition-based budgeting and builds a mathematical, highly interpretable framework using **Linear Programming (LP)**, **Mixed-Integer Programming (MIP)**, and **Dynamic Monthly Reinvestment**. In addition to identifying the optimal allocation, the project evaluates policy constraints, returns from different ROI structures, and operational considerations such as stability over multiple months. The result is a practical, data-driven guideline that senior leadership can use to improve marketing strategy and financial outcomes.
 
-## Image
 ![Budget Optimization](images_2.jpg)
 
 ## Problem Statement
